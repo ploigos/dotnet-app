@@ -1,0 +1,15 @@
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/bin/Release/net6.0/dotnet-app
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/bin/Release/net6.0/dotnet-app.deps.json
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/bin/Release/net6.0/dotnet-app.runtimeconfig.json
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/bin/Release/net6.0/dotnet-app.dll
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/bin/Release/net6.0/ref/dotnet-app.dll
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/bin/Release/net6.0/dotnet-app.pdb
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/obj/Release/net6.0/dotnet-app.csproj.AssemblyReference.cache
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/obj/Release/net6.0/dotnet-app.GeneratedMSBuildEditorConfig.editorconfig
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/obj/Release/net6.0/dotnet-app.AssemblyInfoInputs.cache
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/obj/Release/net6.0/dotnet-app.AssemblyInfo.cs
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/obj/Release/net6.0/dotnet-app.csproj.CoreCompileInputs.cache
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/obj/Release/net6.0/dotnet-app.dll
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/obj/Release/net6.0/ref/dotnet-app.dll
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/obj/Release/net6.0/dotnet-app.pdb
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/obj/Release/net6.0/dotnet-app.genruntimeconfig.cache

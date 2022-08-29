@@ -1,0 +1,5 @@
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/bin/Release/net6.0/publish/dotnet-app
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/bin/Release/net6.0/publish/dotnet-app.dll
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/bin/Release/net6.0/publish/dotnet-app.deps.json
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/bin/Release/net6.0/publish/dotnet-app.runtimeconfig.json
+/home/jthompki/IdeaProjects/Ploigos/dotnet-app/bin/Release/net6.0/publish/dotnet-app.pdb

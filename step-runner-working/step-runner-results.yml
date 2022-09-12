@@ -1,0 +1,58 @@
+step-runner-results:
+    generate-metadata:
+        Dotnet:
+            artifacts:
+            -   description: ''
+                name: app-version
+                value: 1.0.0
+            evidence: []
+            message: ''
+            sub-step-implementer-name: Dotnet
+            success: true
+        Git:
+            artifacts:
+            -   description: ''
+                name: branch
+                value: feature/generate-metadata
+            -   description: ''
+                name: is-pre-release
+                value: true
+            -   description: ''
+                name: commit-hash
+                value: 34fc3a60e6b6368897dc0bd5a50a9a7fde08765c
+            -   description: ''
+                name: commit-utc-timestamp
+                value: 1662997831.0
+            evidence: []
+            message: ''
+            sub-step-implementer-name: Git
+            success: true
+        SemanticVersion:
+            artifacts:
+            -   description: Full constructured semantic version
+                name: version
+                value: 1.0.0-feature-generate-metadata+34fc3a6
+            -   description: Constructed semantic version without build identifier
+                    since not compatible with container image tags
+                name: container-image-tag
+                value: 1.0.0-feature-generate-metadata_34fc3a6
+            -   description: Semantic version version core portion
+                name: semantic-version-core
+                value: 1.0.0
+            -   description: Semantic version pre-release portion
+                name: semantic-version-pre-release
+                value: feature-generate-metadata
+            -   description: Semantic version build portion
+                name: semantic-version-build
+                value: 34fc3a6
+            evidence:
+            -   description: Full constructured semantic version
+                name: version
+                value: 1.0.0-feature-generate-metadata+34fc3a6
+            -   description: semantic version without build identifier since not compatible
+                    with container image tags
+                name: container-image-tag
+                value: 1.0.0-feature-generate-metadata_34fc3a6
+            message: ''
+            sub-step-implementer-name: SemanticVersion
+            success: true

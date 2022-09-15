@@ -25,7 +25,7 @@ step-runner-config:
   push-container-image:
     - implementer: Skopeo
       config:
-        destination-url: nexus-docker-devsecops.apps.cluster-q7vt2.q7vt2.sandbox1639.opentlc.com
+        destination-url: nexus-docker-devsecops.apps.cluster-pn8ld.pn8ld.sandbox814.opentlc.com
         container-image-push-repository: ploigos/dotnet-app
 
   deploy:
@@ -48,4 +48,4 @@ step-runner-config:
   report:
     - implementer: ResultArtifactsArchive
       config:
-        results-archive-destination-url: https://nexus-devsecops.apps.cluster-q7vt2.q7vt2.sandbox1639.opentlc.com/repository/result-artifacts-archive
+        results-archive-destination-url: https://nexus-devsecops.apps.cluster-pn8ld.pn8ld.sandbox814.opentlc.com/repository/result-artifacts-archive

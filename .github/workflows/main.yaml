@@ -18,5 +18,7 @@ permissions:
 jobs:
   minimal:
     runs-on: [self-hosted, python, dotnet]
-    uses: ploigos/ploigos-github-workflows/.github/workflows/minimal.yaml@main
-    secrets: inherit
+    steps:
+      - name: minimal-workflow
+        uses: ploigos/ploigos-github-workflows/.github/workflows/minimal.yaml@main
+        secrets: inherit

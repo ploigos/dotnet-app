@@ -16,6 +16,8 @@ step-runner-config:
 
   package:
     - implementer: DotnetPackage
+      config:
+        csproj-file: 'dotnet-app.csproj'
 
   create-container-image:
     - implementer: Buildah

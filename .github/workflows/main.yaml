@@ -16,7 +16,7 @@ permissions:
   pull-requests: write
 
 jobs:
+  runs-on: [self-hosted, python, dotnet]
   minimal:
-    runs-on: [self-hosted, dotnet]
     uses: ploigos/ploigos-github-workflows/.github/workflows/minimal.yaml@main
     secrets: inherit

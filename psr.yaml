@@ -8,6 +8,9 @@ step-runner-config:
 
   generate-metadata:
     - implementer: DotnetGenerateMetadata
+      config:
+        csproj-file: 'dotnet-app.csproj'
+        csproj-version-tag: 'Version'
     - implementer: Git
     - implementer: SemanticVersion
 

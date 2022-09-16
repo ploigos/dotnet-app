@@ -25,9 +25,6 @@ namespace HttpListenerExample
             "  </head>" +
             "  <body>" +
             "    <p>Page Views: {0}</p>" +
-            "    <form method=\"post\" action=\"shutdown\">" +
-            "      <input type=\"submit\" value=\"Shutdown\" {1}>" +
-            "    </form>" +
             "  </body>" +
             "</html>";
 

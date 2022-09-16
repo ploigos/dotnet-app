@@ -16,6 +16,6 @@ permissions:
   pull-requests: write
 
 jobs:
-  full:
-    uses: ploigos/ploigos-github-workflows/.github/workflows/minimal.yaml@main
+  minimal:
+    uses: ploigos/ploigos-github-workflows/.github/workflows/minimal-dotnet.yaml@feature/dotnet-generate-metadata
     secrets: inherit
